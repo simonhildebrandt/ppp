@@ -1,0 +1,33 @@
+{
+  "name": "ppp-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server --port=9000 --entry-file=index.html public/",
+    "build": "yarn esbuild src/index.jsx --bundle --outfile=public/index.js",
+    "watch": "yarn esbuild src/index.jsx --bundle --outfile=public/index.js --watch",
+    "sync-episodes-up": "aws s3 sync episodes s3://ppp.requisite.link/episodes",
+    "sync-episodes-down": "aws s3 sync s3://ppp.requisite.link/episodes  episodes",
+    "sync-feed": "aws s3 cp public/ppp.rss s3://ppp.requisite.link",
+    "sync-site": "aws s3 sync public s3://ppp.requisite.link"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@chakra-ui/icons": "^1.1.1",
+    "@chakra-ui/react": "^1.7.3",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "esbuild": "^0.14.10",
+    "feed": "^4.2.2",
+    "framer-motion": "^5",
+    "live-server": "^1.2.1",
+    "mp3-duration": "^1.1.0",
+    "music-metadata": "^7.11.4",
+    "podcast": "^2.0.0",
+    "react": "^17.0.2",
+    "react-audio-player": "^0.17.0",
+    "react-dom": "^17.0.2",
+    "rss-parser": "^3.12.0"
+  }
+}
