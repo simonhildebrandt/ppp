@@ -1,1032 +1,704 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-2<channel>
-22<title><![CDATA[Protecting Project Pulp]]></title>
-22<description><![CDATA[Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.]]></description>
-22<link>http://ppp.requisite.link</link>
-22<generator>Podcast for Node</generator>
-22<lastBuildDate>Sun, 02 Jan 2022 07:40:33 GMT</lastBuildDate>
-22<author><![CDATA[Simon Hildebrandt]]></author>
-22<copyright><![CDATA[All rights reserved 2013, Simon Hildebrandt]]></copyright>
-22<language><![CDATA[en]]></language>
-22<category><![CDATA[Arts]]></category>
-22<itunes:author>Simon Hildebrandt</itunes:author>
-22<itunes:summary>Protecting Project Pulp was an &quot;Audio Pulp Fiction Magazine&quot; hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.</itunes:summary>
-22<itunes:owner>
-222<itunes:name>Simon Hildebrandt</itunes:name>
-222<itunes:email>simonhildebrandt@gmail.com</itunes:email>
-22</itunes:owner>
-22<itunes:explicit>false</itunes:explicit>
-22<itunes:category text="Arts">
-222<itunes:category text="Books"/>
-22</itunes:category>
-22<itunes:image href="http://ppp.requisite.link/ppp-logo.png"/>
-22<item>
-222<title><![CDATA[111 Mistress of Snarling Death by Paul Chadwick]]></title>
-222<guid isPermaLink="false">111 Mistress of Snarling Death by Paul Chadwick</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_111_Paul_Chadwick.mp3" length="21576454" type="audio/mpeg"/>
-222<content:encoded><![CDATA[ Mistress of Snarling Death by Paul Chadwick ]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[110 Claw of the Kidnapped Idol by Marcus Lyons]]></title>
-222<guid isPermaLink="false">110 Claw of the Kidnapped Idol by Marcus Lyons</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_110_Marcus_Lyons.mp3" length="11261638" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Claw of the Kidnapped Idol by Marcus Lyons]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[109 The Corpse on the Grating by Hugh B. Cave]]></title>
-222<guid isPermaLink="false">109 The Corpse on the Grating by Hugh B. Cave</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_109_Hugh_B_Cave.mp3" length="20205755" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Corpse on the Grating by Hugh B. Cave]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[108 Defense Mech by Ray Bradbury]]></title>
-222<guid isPermaLink="false">108 Defense Mech by Ray Bradbury</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_108_Ray_Bradbury.mp3" length="19429606" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Defense Mech by Ray Bradbury]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[107 Sex Slaves of the Dragon Tong (part 3) by F. Paul Wilson]]></title>
-222<guid isPermaLink="false">107 Sex Slaves of the Dragon Tong (part 3) by F. Paul Wilson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_107_F_Paul_Wilson.mp3" length="32813705" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Sex Slaves of the Dragon Tong (part 3) by F. Paul Wilson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[106 Sex Slaves of the Dragon Tong (part 2) by F. Paul Wilson]]></title>
-222<guid isPermaLink="false">106 Sex Slaves of the Dragon Tong (part 2) by F. Paul Wilson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_106_F_Paul_Wilson.mp3" length="17991618" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Sex Slaves of the Dragon Tong (part 2) by F. Paul Wilson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[105 Sex Slaves of the Dragon Tong (part 1) by F. Paul Wilson]]></title>
-222<guid isPermaLink="false">105 Sex Slaves of the Dragon Tong (part 1) by F. Paul Wilson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_105_F_Paul_Wilson.mp3" length="31413751" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Sex Slaves of the Dragon Tong (part 1) by F. Paul Wilson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[104 The Coin of Dionysius by Ernest Bramah]]></title>
-222<guid isPermaLink="false">104 The Coin of Dionysius by Ernest Bramah</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_104_Ernest_Bramah.mp3" length="17482112" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Coin of Dionysius by Ernest Bramah]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[103 The People of the Pit by Abraham Merritt]]></title>
-222<guid isPermaLink="false">103 The People of the Pit by Abraham Merritt</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_103_Abraham_Merritt.mp3" length="28371621" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The People of the Pit by Abraham Merritt]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[102 Out of This World by Henry Hasse]]></title>
-222<guid isPermaLink="false">102 Out of This World by Henry Hasse</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_102_Henry_Hasse.mp3" length="25099639" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Out of This World by Henry Hasse]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[101 The Weight of Reputation by Harrison R. Howard]]></title>
-222<guid isPermaLink="false">101 The Weight of Reputation by Harrison R. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_101_Harrison_R_Howard.mp3" length="19941611" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Weight of Reputation by Harrison R. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[100 Final Mission by John D. MacDonald]]></title>
-222<guid isPermaLink="false">100 Final Mission by John D. MacDonald</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_100_John_D._MacDonald.mp3" length="23509728" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Final Mission by John D. MacDonald]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[099 The Avalanche Maker by W. Ryerson Johnson]]></title>
-222<guid isPermaLink="false">099 The Avalanche Maker by W. Ryerson Johnson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_99_W_Ryerson_Johnson.mp3" length="16024914" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Avalanche Maker by W. Ryerson Johnson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[098 The Eyes of Thar by Henry Kuttner]]></title>
-222<guid isPermaLink="false">098 The Eyes of Thar by Henry Kuttner</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_98_Henry_Kuttner.mp3" length="26498132" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Eyes of Thar by Henry Kuttner]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[097 The Fangs of Otan by Harold F. Cruickshank]]></title>
-222<guid isPermaLink="false">097 The Fangs of Otan by Harold F. Cruickshank</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_97_Harold_F._Cruikshank.mp3" length="17837552" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Fangs of Otan by Harold F. Cruickshank]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[096 Stamp of Doom by Ray Cummings]]></title>
-222<guid isPermaLink="false">096 Stamp of Doom by Ray Cummings</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_96_Ray_Cummings.mp3" length="24562148" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Stamp of Doom by Ray Cummings]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[095 Queen of the Black Coast (part 2) by Robert E. Howard]]></title>
-222<guid isPermaLink="false">095 Queen of the Black Coast (part 2) by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_95_Robert_E_Howard.mp3" length="19545957" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Queen of the Black Coast (part 2) by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[094 Queen of the Black Coast (part 1) by Robert E. Howard]]></title>
-222<guid isPermaLink="false">094 Queen of the Black Coast (part 1) by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_94_Robert_E_Howard.mp3" length="29408055" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Queen of the Black Coast (part 1) by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[093 Black Amazon of Mars (part 3) by Leigh Brackett]]></title>
-222<guid isPermaLink="false">093 Black Amazon of Mars (part 3) by Leigh Brackett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_93_Leigh_Brackett.mp3" length="35533788" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Black Amazon of Mars (part 3) by Leigh Brackett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[092 No 92 – Black Amazon of Mars (part 2) by Leigh Brackett]]></title>
-222<guid isPermaLink="false">092 No 92 – Black Amazon of Mars (part 2) by Leigh Brackett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_92_Leigh_Brackett.mp3" length="31011205" type="audio/mpeg"/>
-222<content:encoded><![CDATA[No 92 – Black Amazon of Mars (part 2) by Leigh Brackett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[091 Black Amazon of Mars (part 1) by Leigh Brackett]]></title>
-222<guid isPermaLink="false">091 Black Amazon of Mars (part 1) by Leigh Brackett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_91_Leigh_Brackett.mp3" length="26856314" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Black Amazon of Mars (part 1) by Leigh Brackett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[090 Spawn of Dagon by Henry Kuttner]]></title>
-222<guid isPermaLink="false">090 Spawn of Dagon by Henry Kuttner</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_90_Henry_Kuttner.mp3" length="23175306" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Spawn of Dagon by Henry Kuttner]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[089 Forbidden Fruit by Kris Neville]]></title>
-222<guid isPermaLink="false">089 Forbidden Fruit by Kris Neville</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_89_Kris_Neville.mp3" length="10133697" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Forbidden Fruit by Kris Neville]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[088 Bogus Gems by Gordon Young]]></title>
-222<guid isPermaLink="false">088 Bogus Gems by Gordon Young</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_88_Gordon_Young.mp3" length="23397818" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Bogus Gems by Gordon Young]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[087 Through the Dragon Glass by Abraham Merritt]]></title>
-222<guid isPermaLink="false">087 Through the Dragon Glass by Abraham Merritt</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_87_Abraham_Merritt.mp3" length="21609063" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Through the Dragon Glass by Abraham Merritt]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[086 Friend Island by Francis Stevens]]></title>
-222<guid isPermaLink="false">086 Friend Island by Francis Stevens</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_86_Francis_Stevens_2.mp3" length="17555815" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Friend Island by Francis Stevens]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[085 Shadows of the Deep by Travis Heermann]]></title>
-222<guid isPermaLink="false">085 Shadows of the Deep by Travis Heermann</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_85_Travis_Heermann.mp3" length="24007257" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Shadows of the Deep by Travis Heermann]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[084 Child of Atlantis by Edmond Hamilton]]></title>
-222<guid isPermaLink="false">084 Child of Atlantis by Edmond Hamilton</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_84_Edmond_Hamilton.mp3" length="36875441" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Child of Atlantis by Edmond Hamilton]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[083 Elf Trap by Francis Stevens]]></title>
-222<guid isPermaLink="false">083 Elf Trap by Francis Stevens</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_83_Francis_Stevens.mp3" length="28601118" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Elf Trap by Francis Stevens]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[082 Satan's Boneyard by Leon Dupont]]></title>
-222<guid isPermaLink="false">082 Satan&apos;s Boneyard by Leon Dupont</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_82_Leon_Dupont.mp3" length="15986065" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Satan's Boneyard by Leon Dupont]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[081 Shepherds For Science by W. C. Tuttle]]></title>
-222<guid isPermaLink="false">081 Shepherds For Science by W. C. Tuttle</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_81_W_C_Tuttle.mp3" length="29268599" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Shepherds For Science by W. C. Tuttle]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[080 Bride of the Dark One by Florence Verbell Brown]]></title>
-222<guid isPermaLink="false">080 Bride of the Dark One by Florence Verbell Brown</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_80_Florence_Verbell_Brown.mp3" length="24724884" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Bride of the Dark One by Florence Verbell Brown]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[079 Beast-Jewel of Mars by V. E. Thiessen]]></title>
-222<guid isPermaLink="false">079 Beast-Jewel of Mars by V. E. Thiessen</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_79_V_E_Thiessen.mp3" length="20657305" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Beast-Jewel of Mars by V. E. Thiessen]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[078 No 78 – Shadows in the Moonlight (part 2) by Robert E. Howard]]></title>
-222<guid isPermaLink="false">078 No 78 – Shadows in the Moonlight (part 2) by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_78_Robert_E._Howard.mp3" length="11940766" type="audio/mpeg"/>
-222<content:encoded><![CDATA[No 78 – Shadows in the Moonlight (part 2) by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[077 Shadows in the Moonlight (part 1) by Robert E. Howard]]></title>
-222<guid isPermaLink="false">077 Shadows in the Moonlight (part 1) by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_77_Robert_E._Howard.mp3" length="29804760" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Shadows in the Moonlight (part 1) by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[076 In Destiny's Clutch by Rafael Sabatini]]></title>
-222<guid isPermaLink="false">076 In Destiny&apos;s Clutch by Rafael Sabatini</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_76_Rafael_Sabatini.mp3" length="19865899" type="audio/mpeg"/>
-222<content:encoded><![CDATA[In Destiny's Clutch by Rafael Sabatini]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[075 Eloi, Eloi, Lama Sabachthani by William Hope Hodgson]]></title>
-222<guid isPermaLink="false">075 Eloi, Eloi, Lama Sabachthani by William Hope Hodgson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_75_William_Hope_Hodgson.mp3" length="19847381" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Eloi, Eloi, Lama Sabachthani by William Hope Hodgson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[074 World's End by Henry Kuttner]]></title>
-222<guid isPermaLink="false">074 World&apos;s End by Henry Kuttner</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_74_Henry_Kuttner.mp3" length="14568974" type="audio/mpeg"/>
-222<content:encoded><![CDATA[World's End by Henry Kuttner]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[073 The Strangling Hands by M. G. Moretti]]></title>
-222<guid isPermaLink="false">073 The Strangling Hands by M. G. Moretti</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_73_M_G_Moretti.mp3" length="18319113" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Strangling Hands by M. G. Moretti]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[072 The Murder Machine by Hugh B. Cave]]></title>
-222<guid isPermaLink="false">072 The Murder Machine by Hugh B. Cave</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_72_Hugh_B._Cave.mp3" length="22848537" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Murder Machine by Hugh B. Cave]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[071 The Hanging Stranger by Philip K. Dick]]></title>
-222<guid isPermaLink="false">071 The Hanging Stranger by Philip K. Dick</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_71_Philip_K._Dick.mp3" length="18416497" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Hanging Stranger by Philip K. Dick]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[070 The Voice in the Night by William Hope Hodgson]]></title>
-222<guid isPermaLink="false">070 The Voice in the Night by William Hope Hodgson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_70_William_Hope_Hodgson.mp3" length="20983185" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Voice in the Night by William Hope Hodgson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[069 A Man's Problem by Meredith Davis]]></title>
-222<guid isPermaLink="false">069 A Man&apos;s Problem by Meredith Davis</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_69_Meredith_Davis.mp3" length="19436736" type="audio/mpeg"/>
-222<content:encoded><![CDATA[A Man's Problem by Meredith Davis]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[068 A World Is Born by Leigh Brackett]]></title>
-222<guid isPermaLink="false">068 A World Is Born by Leigh Brackett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_68_Leigh_Brackett.mp3" length="29137360" type="audio/mpeg"/>
-222<content:encoded><![CDATA[A World Is Born by Leigh Brackett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[067 Prominent Author by Philip K. Dick]]></title>
-222<guid isPermaLink="false">067 Prominent Author by Philip K. Dick</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_67_Philip_K._Dick.mp3" length="23651227" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Prominent Author by Philip K. Dick]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[066 War Plans Divided by Robert Leslie Bellem]]></title>
-222<guid isPermaLink="false">066 War Plans Divided by Robert Leslie Bellem</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_66_Robert_Leslie_Bellem.mp3" length="17132736" type="audio/mpeg"/>
-222<content:encoded><![CDATA[War Plans Divided by Robert Leslie Bellem]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[065 The Island Trovar by JC Hemphill]]></title>
-222<guid isPermaLink="false">065 The Island Trovar by JC Hemphill</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_J_C_Hemphill.mp3" length="22092658" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Island Trovar by JC Hemphill]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[065 Extra – JC Hemphill Interview]]></title>
-222<guid isPermaLink="false">065 Extra – JC Hemphill Interview</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_Extra_-_J_C_Hemphill_Interview.mp3" length="9164762" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Extra – JC Hemphill Interview]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[064 The Lost Special by Arthur Conan Doyle]]></title>
-222<guid isPermaLink="false">064 The Lost Special by Arthur Conan Doyle</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_64_Arthur_Conan_Doyle.mp3" length="19716768" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Lost Special by Arthur Conan Doyle]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[063 The Inn of Treachery by Guido Rengetti]]></title>
-222<guid isPermaLink="false">063 The Inn of Treachery by Guido Rengetti</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_63_Guido_Rengetti.mp3" length="18860579" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Inn of Treachery by Guido Rengetti]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[062 The Sea Witch by Nictzin Dyalhis]]></title>
-222<guid isPermaLink="false">062 The Sea Witch by Nictzin Dyalhis</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_62_Nictzin_Dyalhis.mp3" length="50924737" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Sea Witch by Nictzin Dyalhis]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[061 The Servant Problem by Robert F. Young]]></title>
-222<guid isPermaLink="false">061 The Servant Problem by Robert F. Young</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_61_Robert_F._Young.mp3" length="29494297" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Servant Problem by Robert F. Young]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[060 Letter from the Stars by A. E. van Vogt]]></title>
-222<guid isPermaLink="false">060 Letter from the Stars by A. E. van Vogt</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_60_A._E._van_Vogt.mp3" length="9294329" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Letter from the Stars by A. E. van Vogt]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[059 The Opener of the Way by Robert Bloch]]></title>
-222<guid isPermaLink="false">059 The Opener of the Way by Robert Bloch</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_59_Robert_Bloch.mp3" length="19940586" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Opener of the Way by Robert Bloch]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[058 Strange Eden by Philip K. Dick]]></title>
-222<guid isPermaLink="false">058 Strange Eden by Philip K. Dick</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_58_Philip_K._Dick.mp3" length="17436592" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Strange Eden by Philip K. Dick]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[057 The Shadow on the Doorstep by James Blaylock]]></title>
-222<guid isPermaLink="false">057 The Shadow on the Doorstep by James Blaylock</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_57_James_Blaylock.mp3" length="16282189" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Shadow on the Doorstep by James Blaylock]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[056 Rose Face by H. A. Lamb]]></title>
-222<guid isPermaLink="false">056 Rose Face by H. A. Lamb</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_56_H._A._Lamb.mp3" length="31169686" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Rose Face by H. A. Lamb]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[055 Mother of Toads by Clark Ashton Smith]]></title>
-222<guid isPermaLink="false">055 Mother of Toads by Clark Ashton Smith</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_55_Clark_Ashton_Smith.mp3" length="13652598" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Mother of Toads by Clark Ashton Smith]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[054 River Round-Up by W. Ryerson Johnson]]></title>
-222<guid isPermaLink="false">054 River Round-Up by W. Ryerson Johnson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_54_W._Ryerson_Johnson.mp3" length="17532723" type="audio/mpeg"/>
-222<content:encoded><![CDATA[River Round-Up by W. Ryerson Johnson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[053 The Hand of the Mandarin Quong by Sax Rohmer]]></title>
-222<guid isPermaLink="false">053 The Hand of the Mandarin Quong by Sax Rohmer</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_53_Sax_Rohmer.mp3" length="22225987" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Hand of the Mandarin Quong by Sax Rohmer]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[052 Mitafri by Eric H. Wilkinson]]></title>
-222<guid isPermaLink="false">052 Mitafri by Eric H. Wilkinson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_52_Eric_H._Wilkinson.mp3" length="18028631" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Mitafri by Eric H. Wilkinson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[051 The Witch-Doctor Seeks Vengeance by Edgar Rice Burroughs]]></title>
-222<guid isPermaLink="false">051 The Witch-Doctor Seeks Vengeance by Edgar Rice Burroughs</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_51_Edgar_Rice_Burroughs.mp3" length="21703538" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Witch-Doctor Seeks Vengeance by Edgar Rice Burroughs]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[050 The Nameless City by H P Lovecraft]]></title>
-222<guid isPermaLink="false">050 The Nameless City by H P Lovecraft</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_50_H._P._Lovecraft.mp3" length="15700599" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Nameless City by H P Lovecraft]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[049 The Girl From Samarcand by E. Hoffmann Price]]></title>
-222<guid isPermaLink="false">049 The Girl From Samarcand by E. Hoffmann Price</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_49_E._Hoffmann_Price.mp3" length="19652612" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Girl From Samarcand by E. Hoffmann Price]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[048 The Problem of Cell 13 by Jacques Futrelle]]></title>
-222<guid isPermaLink="false">048 The Problem of Cell 13 by Jacques Futrelle</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_48_Jacques_Futrelle.mp3" length="38843208" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Problem of Cell 13 by Jacques Futrelle]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[047 The Rats in the Walls by H. P. Lovecraft]]></title>
-222<guid isPermaLink="false">047 The Rats in the Walls by H. P. Lovecraft</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_47_H._P._Lovecraft.mp3" length="29492625" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Rats in the Walls by H. P. Lovecraft]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[046 Arson Plus by Dashiell Hammett]]></title>
-222<guid isPermaLink="false">046 Arson Plus by Dashiell Hammett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_46_Dashiell_Hammett.mp3" length="20580690" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Arson Plus by Dashiell Hammett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[045 The Devil's Crypt by E. Hoffmann Price]]></title>
-222<guid isPermaLink="false">045 The Devil&apos;s Crypt by E. Hoffmann Price</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_45_E._Hoffmann_Price.mp3" length="29049797" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Devil's Crypt by E. Hoffmann Price]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[044 Wanted: A Wife by Carlotta M. Hardy]]></title>
-222<guid isPermaLink="false">044 Wanted: A Wife by Carlotta M. Hardy</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_44_Carlotta_M._Hardy.mp3" length="18420677" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Wanted: A Wife by Carlotta M. Hardy]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[043 The Spirit of France by S. B. H. Hurst]]></title>
-222<guid isPermaLink="false">043 The Spirit of France by S. B. H. Hurst</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_43_SBH_Hurst.mp3" length="23748612" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Spirit of France by S. B. H. Hurst]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[042 Adventure's Heart by Albert Dorrington]]></title>
-222<guid isPermaLink="false">042 Adventure&apos;s Heart by Albert Dorrington</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_42_Albert_Dorrington.mp3" length="30172645" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Adventure's Heart by Albert Dorrington]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[041 The Queen of Wheats by Anonymous]]></title>
-222<guid isPermaLink="false">041 The Queen of Wheats by Anonymous</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_41_Anonymous.mp3" length="16378319" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Queen of Wheats by Anonymous]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[040 The Golden Barrier by G.T. Fleming-Roberts]]></title>
-222<guid isPermaLink="false">040 The Golden Barrier by G.T. Fleming-Roberts</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_40_G._T._Fleming-Roberts.mp3" length="35257905" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Golden Barrier by G.T. Fleming-Roberts]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[039 That Spot by Jack London]]></title>
-222<guid isPermaLink="false">039 That Spot by Jack London</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_39_Jack_London.mp3" length="14360154" type="audio/mpeg"/>
-222<content:encoded><![CDATA[That Spot by Jack London]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[038 Man From the Wrong Time-Track by Denis Plimmer]]></title>
-222<guid isPermaLink="false">038 Man From the Wrong Time-Track by Denis Plimmer</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_38_Dennis_Plimmer.mp3" length="17524523" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Man From the Wrong Time-Track by Denis Plimmer]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[037 The Waters Of Bowlegs Creek by J. E. Grinstead]]></title>
-222<guid isPermaLink="false">037 The Waters Of Bowlegs Creek by J. E. Grinstead</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_37_J._E._Grinstead.mp3" length="30542907" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Waters Of Bowlegs Creek by J. E. Grinstead]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[036 The Crawling Creature by Donald Bayne Hobart]]></title>
-222<guid isPermaLink="false">036 The Crawling Creature by Donald Bayne Hobart</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_36_Donald_Bayne_Hobart.mp3" length="20345956" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Crawling Creature by Donald Bayne Hobart]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[035 The Crystal Ray by Raymond Gallum]]></title>
-222<guid isPermaLink="false">035 The Crystal Ray by Raymond Gallum</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_35_Raymond_Gallun.mp3" length="21014691" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Crystal Ray by Raymond Gallum]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[034 The Hounds of Tindalos by Frank Belknap Long, Jr.]]></title>
-222<guid isPermaLink="false">034 The Hounds of Tindalos by Frank Belknap Long, Jr.</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_34_Frank_Belknap_Long_Jr.mp3" length="22374939" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Hounds of Tindalos by Frank Belknap Long, Jr.]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[033 The Whistling Corpse by G. G. Pendarves]]></title>
-222<guid isPermaLink="false">033 The Whistling Corpse by G. G. Pendarves</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_33_G._G._Pendarves.mp3" length="57945984" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Whistling Corpse by G. G. Pendarves]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[032 The Experiment In Gyro-Hats by Ellis Parker Butler]]></title>
-222<guid isPermaLink="false">032 The Experiment In Gyro-Hats by Ellis Parker Butler</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_32_Ellis_Parker_Butler.mp3" length="20111063" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Experiment In Gyro-Hats by Ellis Parker Butler]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[031 The Tigress Terrible by S. Ten Eyck Burke]]></title>
-222<guid isPermaLink="false">031 The Tigress Terrible by S. Ten Eyck Burke</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_31_S_Ten_Eyck_Bourke.mp3" length="16193950" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Tigress Terrible by S. Ten Eyck Burke]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[030 Waterfront Fists by Robert E. Howard]]></title>
-222<guid isPermaLink="false">030 Waterfront Fists by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_30_Robert_E_Howard.mp3" length="31900229" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Waterfront Fists by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[029 The Pink of Fading Neon by James Blaylock]]></title>
-222<guid isPermaLink="false">029 The Pink of Fading Neon by James Blaylock</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_29_James_Blaylock.mp3" length="38411616" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Pink of Fading Neon by James Blaylock]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[028 Tarzan Rescues the Moon by Edgar Rice Burroughs]]></title>
-222<guid isPermaLink="false">028 Tarzan Rescues the Moon by Edgar Rice Burroughs</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_28_Edgar_Rice_Burroughs.mp3" length="24488768" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Tarzan Rescues the Moon by Edgar Rice Burroughs]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[027 Devil's Asteroid by Manly Wade Wellman]]></title>
-222<guid isPermaLink="false">027 Devil&apos;s Asteroid by Manly Wade Wellman</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_27_Manly_Wade_Wellman.mp3" length="35610035" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Devil's Asteroid by Manly Wade Wellman]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[026 Whispering Death by Lawrence Donovan]]></title>
-222<guid isPermaLink="false">026 Whispering Death by Lawrence Donovan</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_26_Lawrence_Donovan.mp3" length="15274022" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Whispering Death by Lawrence Donovan]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[025 Agent Andy by Russell A. Boggs]]></title>
-222<guid isPermaLink="false">025 Agent Andy by Russell A. Boggs</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_25_Russell_Boggs.mp3" length="29454750" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Agent Andy by Russell A. Boggs]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[024 Hell On Dirt Oval by Lester Del Rey]]></title>
-222<guid isPermaLink="false">024 Hell On Dirt Oval by Lester Del Rey</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_24_Philip_St._John.mp3" length="37819577" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Hell On Dirt Oval by Lester Del Rey]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[023 The Tree of Life (part 2) by C. L. Moore]]></title>
-222<guid isPermaLink="false">023 The Tree of Life (part 2) by C. L. Moore</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_23_C_L_Moore.mp3" length="23830900" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Tree of Life (part 2) by C. L. Moore]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[022 The Tree of Life (part 1) by C. L. Moore]]></title>
-222<guid isPermaLink="false">022 The Tree of Life (part 1) by C. L. Moore</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_22_C_L_Moore.mp3" length="25562087" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Tree of Life (part 1) by C. L. Moore]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[021 The X-Gas by Cyril Plunkett]]></title>
-222<guid isPermaLink="false">021 The X-Gas by Cyril Plunkett</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_21_Cyril_Plunket.mp3" length="24821881" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The X-Gas by Cyril Plunkett]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[020 Fane of the Black Pharaoh by Robert Bloch]]></title>
-222<guid isPermaLink="false">020 Fane of the Black Pharaoh by Robert Bloch</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_20_Robert_Bloch.mp3" length="31633989" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Fane of the Black Pharaoh by Robert Bloch]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[019 Ten Dollars-No Sense by Tom Thursday]]></title>
-222<guid isPermaLink="false">019 Ten Dollars-No Sense by Tom Thursday</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_19_Tom_Thursday.mp3" length="20843537" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Ten Dollars-No Sense by Tom Thursday]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[018 Hide-Away by H. A. DeRosso]]></title>
-222<guid isPermaLink="false">018 Hide-Away by H. A. DeRosso</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_18_H_A_DeRosso.mp3" length="18882054" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Hide-Away by H. A. DeRosso]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[017 The Golgotha Dancers by Manly Wade Wellman]]></title>
-222<guid isPermaLink="false">017 The Golgotha Dancers by Manly Wade Wellman</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_17_Manly_Wade_Wellman.mp3" length="18314048" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Golgotha Dancers by Manly Wade Wellman]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[016 Raiders of the Spaceways by Henry Kuttner]]></title>
-222<guid isPermaLink="false">016 Raiders of the Spaceways by Henry Kuttner</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_16_Henry_Kuttner.mp3" length="39450662" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Raiders of the Spaceways by Henry Kuttner]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[015 Kali by Eric Taylor]]></title>
-222<guid isPermaLink="false">015 Kali by Eric Taylor</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_15_Eric_Taylor.mp3" length="29993918" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Kali by Eric Taylor]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[014 The Way Down the Hill by Tim Powers]]></title>
-222<guid isPermaLink="false">014 The Way Down the Hill by Tim Powers</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_14_Tim_Powers.mp3" length="50553957" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Way Down the Hill by Tim Powers]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[013 Conjuror of the Clouds by Muriel A. Pollexfen]]></title>
-222<guid isPermaLink="false">013 Conjuror of the Clouds by Muriel A. Pollexfen</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_13_Muriel_Pollexfen.mp3" length="24794087" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Conjuror of the Clouds by Muriel A. Pollexfen]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[012 The Eagle of Kuwahi by C. Hall Thompson]]></title>
-222<guid isPermaLink="false">012 The Eagle of Kuwahi by C. Hall Thompson</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_12_C_Hall_Thompson.mp3" length="33538003" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Eagle of Kuwahi by C. Hall Thompson]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[011 A Voice From the Fog by Ben Ames Williams]]></title>
-222<guid isPermaLink="false">011 A Voice From the Fog by Ben Ames Williams</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_11_Ben_Ames_Williams.mp3" length="22119775" type="audio/mpeg"/>
-222<content:encoded><![CDATA[A Voice From the Fog by Ben Ames Williams]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[010 The Game of Rat and Dragon by Cordwainer Smith]]></title>
-222<guid isPermaLink="false">010 The Game of Rat and Dragon by Cordwainer Smith</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_10_Cordwainer_Smith.mp3" length="22466054" type="audio/mpeg"/>
-222<content:encoded><![CDATA[The Game of Rat and Dragon by Cordwainer Smith]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[009 Live Bait by E. Hoffman Price]]></title>
-222<guid isPermaLink="false">009 Live Bait by E. Hoffman Price</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_9_E_Hoffmann_Price.mp3" length="25514022" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Live Bait by E. Hoffman Price]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[008 When Caverns Yawned by Captain S. P. Meek]]></title>
-222<guid isPermaLink="false">008 When Caverns Yawned by Captain S. P. Meek</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_8_S._P._Meek.mp3" length="33209905" type="audio/mpeg"/>
-222<content:encoded><![CDATA[When Caverns Yawned by Captain S. P. Meek]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[007 There's Hicks In All Trades by Tom Thursday]]></title>
-222<guid isPermaLink="false">007 There&apos;s Hicks In All Trades by Tom Thursday</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_7_Tom_Thursday.mp3" length="20885542" type="audio/mpeg"/>
-222<content:encoded><![CDATA[There's Hicks In All Trades by Tom Thursday]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[006 Flying Suitors by Arthur J. Burks]]></title>
-222<guid isPermaLink="false">006 Flying Suitors by Arthur J. Burks</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_6_Authur_J_Burks.mp3" length="21362015" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Flying Suitors by Arthur J. Burks]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[005 Gods of the North by Robert E. Howard]]></title>
-222<guid isPermaLink="false">005 Gods of the North by Robert E. Howard</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_5_Robert_E_Howard.mp3" length="17714067" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Gods of the North by Robert E. Howard]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[004 Kroom, Son of the Sea by Valentine Wood]]></title>
-222<guid isPermaLink="false">004 Kroom, Son of the Sea by Valentine Wood</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_4_Valentine_Wood.mp3" length="47961983" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Kroom, Son of the Sea by Valentine Wood]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[003 Love of Life by Jack London]]></title>
-222<guid isPermaLink="false">003 Love of Life by Jack London</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_3_Jack_London.mp3" length="30297983" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Love of Life by Jack London]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[002 Bread Overhead by Fritz Leiber]]></title>
-222<guid isPermaLink="false">002 Bread Overhead by Fritz Leiber</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_2_Fritz_Leiber.mp3" length="21861894" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Bread Overhead by Fritz Leiber]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-22<item>
-222<title><![CDATA[001 Golden Lure by George Goodchild]]></title>
-222<guid isPermaLink="false">001 Golden Lure by George Goodchild</guid>
-222<dc:creator><![CDATA[Simon Hildebrandt]]></dc:creator>
-222<pubDate>Sun, 02 Jan 2022 07:40:33 GMT</pubDate>
-222<enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_1_George_Goodchild.mp3" length="23337129" type="audio/mpeg"/>
-222<content:encoded><![CDATA[Golden Lure by George Goodchild]]></content:encoded>
-222<itunes:explicit>false</itunes:explicit>
-22</item>
-2</channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Protecting Project Pulp]]></title>
+        <description><![CDATA[Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.]]></description>
+        <link>http://ppp.requisite.link</link>
+        <image>
+            <url>http://ppp.requisite.link/ppp-logo.png</url>
+            <title>Protecting Project Pulp</title>
+            <link>http://ppp.requisite.link</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 03 Jan 2022 06:10:58 GMT</lastBuildDate>
+        <atom:link href="http://ppp.requisite.link/ppp.rss" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[en]]></language>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:author>Simon Hildebrandt</itunes:author>
+        <itunes:summary>Protecting Project Pulp was an &quot;Audio Pulp Fiction Magazine&quot; hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Simon Hildebrandt</itunes:name>
+            <itunes:email>simonhildebrandt@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://ppp.requisite.link/ppp-logo.png"/>
+        <itunes:category text="Arts">
+        </itunes:category>
+        <item>
+            <title><![CDATA[111 Mistress of Snarling Death by Paul Chadwick]]></title>
+            <description><![CDATA[Read by Dave Lamm, first published in Ace Mystery, July 1936]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_111_Paul_Chadwick.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_111_Paul_Chadwick.mp3" length="21576454" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[110 Claw of the Kidnapped Idol by Marcus Lyons]]></title>
+            <description><![CDATA[Read by Douglas Sedivy, first published in Crack Detective Stories, December 1947]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_110_Marcus_Lyons.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_110_Marcus_Lyons.mp3" length="11261638" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[109 The Corpse on the Grating by Hugh B. Cave]]></title>
+            <description><![CDATA[Read by Rob Smales, first published in Astounding Stories of Super Science, February 1930]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_109_Hugh_B_Cave.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_109_Hugh_B_Cave.mp3" length="20205755" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[108 Defense Mech by Ray Bradbury]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, Spring, 1946]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_108_Ray_Bradbury.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_108_Ray_Bradbury.mp3" length="19429606" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[107 Sex Slaves of the Dragon Tong (part 3) by F. Paul Wilson]]></title>
+            <description><![CDATA[Read by James Silverstein]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_107_F_Paul_Wilson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_107_F_Paul_Wilson.mp3" length="32813705" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[106 Sex Slaves of the Dragon Tong (part 2) by F. Paul Wilson]]></title>
+            <description><![CDATA[Read by James Silverstein]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_106_F_Paul_Wilson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_106_F_Paul_Wilson.mp3" length="17991618" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[105 Sex Slaves of the Dragon Tong (part 1) by F. Paul Wilson]]></title>
+            <description><![CDATA[Read by James Silverstein]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_105_F_Paul_Wilson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_105_F_Paul_Wilson.mp3" length="31413751" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[104 The Coin of Dionysius by Ernest Bramah]]></title>
+            <description><![CDATA[Read by Jay Langejans, first published in The Strand Magazine]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_104_Ernest_Bramah.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_104_Ernest_Bramah.mp3" length="17482112" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[103 The People of the Pit by Abraham Merritt]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in The All-Story, January 5, 1918]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_103_Abraham_Merritt.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_103_Abraham_Merritt.mp3" length="28371621" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[102 Out of This World by Henry Hasse]]></title>
+            <description><![CDATA[Read by Daniel Reynolds, first published in Planet Stories, Summer, 1942]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_102_Henry_Hasse.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_102_Henry_Hasse.mp3" length="25099639" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[101 The Weight of Reputation by Harrison R. Howard]]></title>
+            <description><![CDATA[Read by Shawn Robertson, first published in Adventure, March 30 1920]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_101_Harrison_R_Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_101_Harrison_R_Howard.mp3" length="19941611" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[100 Final Mission by John D. MacDonald]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, November, 1950]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_100_John_D._MacDonald.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_100_John_D._MacDonald.mp3" length="23509728" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[099 The Avalanche Maker by W. Ryerson Johnson]]></title>
+            <description><![CDATA[Read by Logan Waterman, first published in West Magazine, July 22, 1931]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_99_W_Ryerson_Johnson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_99_W_Ryerson_Johnson.mp3" length="16024914" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[098 The Eyes of Thar by Henry Kuttner]]></title>
+            <description><![CDATA[Read by Rob Smales, first published in Planet Stories, Fall, 1944]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_98_Henry_Kuttner.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_98_Henry_Kuttner.mp3" length="26498132" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[097 The Fangs of Otan by Harold F. Cruickshank]]></title>
+            <description><![CDATA[Read by Samuel Campbell, first published in Thrilling Adventures, August 1939]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_97_Harold_F._Cruikshank.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_97_Harold_F._Cruikshank.mp3" length="17837552" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[096 Stamp of Doom by Ray Cummings]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Crack Detective, March 1946]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_96_Ray_Cummings.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_96_Ray_Cummings.mp3" length="24562148" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[095 Queen of the Black Coast (part 2) by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Robert Crandall, first published in Weird Tales, May 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_95_Robert_E_Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_95_Robert_E_Howard.mp3" length="19545957" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[094 Queen of the Black Coast (part 1) by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Robert Crandall, first published in Weird Tales, May 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_94_Robert_E_Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_94_Robert_E_Howard.mp3" length="29408055" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[093 Black Amazon of Mars (part 3) by Leigh Brackett]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, March 1951]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_93_Leigh_Brackett.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_93_Leigh_Brackett.mp3" length="35533788" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[092 No 92 – Black Amazon of Mars (part 2) by Leigh Brackett]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, March 1951]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_92_Leigh_Brackett.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_92_Leigh_Brackett.mp3" length="31011205" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[091 Black Amazon of Mars (part 1) by Leigh Brackett]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, March 1951]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_91_Leigh_Brackett.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_91_Leigh_Brackett.mp3" length="26856314" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[090 Spawn of Dagon by Henry Kuttner]]></title>
+            <description><![CDATA[Read by James Silverstein, first published in Weird Tales, July 1938]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_90_Henry_Kuttner.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_90_Henry_Kuttner.mp3" length="23175306" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[089 Forbidden Fruit by Kris Neville]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Out of This World Adventures, July 1950]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_89_Kris_Neville.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_89_Kris_Neville.mp3" length="10133697" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[088 Bogus Gems by Gordon Young]]></title>
+            <description><![CDATA[Read by Bryan Lincoln, first published in Adventure, December 18, 1919]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_88_Gordon_Young.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_88_Gordon_Young.mp3" length="23397818" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[087 Through the Dragon Glass by Abraham Merritt]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in All-Story Weekly, November 24, 1917]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_87_Abraham_Merritt.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_87_Abraham_Merritt.mp3" length="21609063" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[086 Friend Island by Francis Stevens]]></title>
+            <description><![CDATA[Read by Pete Fallico, first published in All-Story Weekly, September 7, 1918]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_86_Francis_Stevens_2.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_86_Francis_Stevens_2.mp3" length="17555815" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[085 Shadows of the Deep by Travis Heermann]]></title>
+            <description><![CDATA[Read by Josie Babin,]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_85_Travis_Heermann.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_85_Travis_Heermann.mp3" length="24007257" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[084 Child of Atlantis by Edmond Hamilton]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Weird Tales, December, 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_84_Edmond_Hamilton.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_84_Edmond_Hamilton.mp3" length="36875441" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[083 Elf Trap by Francis Stevens]]></title>
+            <description><![CDATA[Read by Josh Roseman, first published in Argosy, July 5, 1919]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_83_Francis_Stevens.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_83_Francis_Stevens.mp3" length="28601118" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[082 Satan's Boneyard by Leon Dupont]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in 12 Adventure Stories, October 1939]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_82_Leon_Dupont.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_82_Leon_Dupont.mp3" length="15986065" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[081 Shepherds For Science by W. C. Tuttle]]></title>
+            <description><![CDATA[Read by Stephen Howell, first published in Adventure, March 3, 1920]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_81_W_C_Tuttle.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_81_W_C_Tuttle.mp3" length="29268599" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[080 Bride of the Dark One by Florence Verbell Brown]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Planet Stories, July 1952]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_80_Florence_Verbell_Brown.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_80_Florence_Verbell_Brown.mp3" length="24724884" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[079 Beast-Jewel of Mars by V. E. Thiessen]]></title>
+            <description><![CDATA[Read by Dave Lamm, first published in Planet Stories, Spring, 1955]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_79_V_E_Thiessen.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_79_V_E_Thiessen.mp3" length="20657305" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[078 No 78 – Shadows in the Moonlight (part 2) by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Nick Camm, first published in Weird Tales, April 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_78_Robert_E._Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_78_Robert_E._Howard.mp3" length="11940766" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[077 Shadows in the Moonlight (part 1) by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Nick Camm, first published in Weird Tales, April 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_77_Robert_E._Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_77_Robert_E._Howard.mp3" length="29804760" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[076 In Destiny's Clutch by Rafael Sabatini]]></title>
+            <description><![CDATA[Read by Samuel Campbell, first published in Top-Notch Magazine, May 21, 1915]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_76_Rafael_Sabatini.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_76_Rafael_Sabatini.mp3" length="19865899" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[075 Eloi, Eloi, Lama Sabachthani by William Hope Hodgson]]></title>
+            <description><![CDATA[Read by Wilson Fowlie, first published in as “The Baumoff Explosive” in Nash’s Weekly Vol. 2, No. 2 (1919)]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_75_William_Hope_Hodgson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_75_William_Hope_Hodgson.mp3" length="19847381" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[074 World's End by Henry Kuttner]]></title>
+            <description><![CDATA[Read by Simon Hildebrandt, first published in Weird Tales, Feb. 1938]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_74_Henry_Kuttner.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_74_Henry_Kuttner.mp3" length="14568974" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[073 The Strangling Hands by M. G. Moretti]]></title>
+            <description><![CDATA[Read by Daniel Reynolds, first published in Weird Tales, Feb. 1938]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_73_M_G_Moretti.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_73_M_G_Moretti.mp3" length="18319113" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[072 The Murder Machine by Hugh B. Cave]]></title>
+            <description><![CDATA[Read by Douglas B. Sedivy, first published in Astounding Stories of Super Science, September 1930]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_72_Hugh_B._Cave.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_72_Hugh_B._Cave.mp3" length="22848537" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[071 The Hanging Stranger by Philip K. Dick]]></title>
+            <description><![CDATA[Read by Dave Lamm, first published in Science Fiction Adventures Magazine, December 1953]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_71_Philip_K._Dick.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_71_Philip_K._Dick.mp3" length="18416497" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[070 The Voice in the Night by William Hope Hodgson]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in The Blue Magazine, November, 1907]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_70_William_Hope_Hodgson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_70_William_Hope_Hodgson.mp3" length="20983185" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[069 A Man's Problem by Meredith Davis]]></title>
+            <description><![CDATA[Read by Pete Fallico, first published in Top Notch Magazine, December 15, 1922]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_69_Meredith_Davis.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_69_Meredith_Davis.mp3" length="19436736" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[068 A World Is Born by Leigh Brackett]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Comet Magazine, July 1941]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_68_Leigh_Brackett.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_68_Leigh_Brackett.mp3" length="29137360" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[067 Prominent Author by Philip K. Dick]]></title>
+            <description><![CDATA[Read by Nick Camm, first published in Worlds of Science Fiction, May 1954]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_67_Philip_K._Dick.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_67_Philip_K._Dick.mp3" length="23651227" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[066 War Plans Divided by Robert Leslie Bellem]]></title>
+            <description><![CDATA[Read by Dallan Troyer, first published in Thrilling Spy Stories, July, 1939]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_66_Robert_Leslie_Bellem.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_66_Robert_Leslie_Bellem.mp3" length="17132736" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[065 The Island Trovar by JC Hemphill]]></title>
+            <description><![CDATA[Read by Adam Pracht, first published in Dark Tales of Lost Civilizations
+“The Island Trovar” © 2012 JC Hemphill. Used by permission.]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_J_C_Hemphill.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_J_C_Hemphill.mp3" length="22092658" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[065 Extra – JC Hemphill Interview]]></title>
+            <description><![CDATA[Read by Adam Pracht, first published in Dark Tales of Lost Civilizations
+“The Island Trovar” © 2012 JC Hemphill. Used by permission.]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_Extra_-_J_C_Hemphill_Interview.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_65_Extra_-_J_C_Hemphill_Interview.mp3" length="9164762" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[064 The Lost Special by Arthur Conan Doyle]]></title>
+            <description><![CDATA[Read by Jay Langejans, first published in Tales of Terror and Mystery]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_64_Arthur_Conan_Doyle.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_64_Arthur_Conan_Doyle.mp3" length="19716768" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[063 The Inn of Treachery by Guido Rengetti]]></title>
+            <description><![CDATA[Read by Mandy McCall, first published in Thrilling Adventures, July 1932]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_63_Guido_Rengetti.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_63_Guido_Rengetti.mp3" length="18860579" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[062 The Sea Witch by Nictzin Dyalhis]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Weird Tales, December 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_62_Nictzin_Dyalhis.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_62_Nictzin_Dyalhis.mp3" length="50924737" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[061 The Servant Problem by Robert F. Young]]></title>
+            <description><![CDATA[Read by Mike Wood, first published in Analog Science Fact Science Fiction, November, 1962]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_61_Robert_F._Young.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_61_Robert_F._Young.mp3" length="29494297" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[060 Letter from the Stars by A. E. van Vogt]]></title>
+            <description><![CDATA[Read by Josh Roseman, first published in Out of This World Adventures, July 1950]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_60_A._E._van_Vogt.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_60_A._E._van_Vogt.mp3" length="9294329" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[059 The Opener of the Way by Robert Bloch]]></title>
+            <description><![CDATA[Read by Simon Hildebrandt, first published in Weird Tales, October 1936]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_59_Robert_Bloch.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_59_Robert_Bloch.mp3" length="19940586" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[058 Strange Eden by Philip K. Dick]]></title>
+            <description><![CDATA[Read by Bryan Lincoln, first published in Imagination]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_58_Philip_K._Dick.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_58_Philip_K._Dick.mp3" length="17436592" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[057 The Shadow on the Doorstep by James Blaylock]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Isaac Asimov’s Science Fiction Magazine, May 1986
+“The Shadow on the Doorstep” © 1986 James Blaylock. Used by permission.]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_57_James_Blaylock.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_57_James_Blaylock.mp3" length="16282189" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[056 Rose Face by H. A. Lamb]]></title>
+            <description><![CDATA[Read by Lewis Morgan, first published in Adventure Magazine, March 3, 1920]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_56_H._A._Lamb.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_56_H._A._Lamb.mp3" length="31169686" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[055 Mother of Toads by Clark Ashton Smith]]></title>
+            <description><![CDATA[Read by Josie Babin, first published in Weird Tales, July, 1938]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_55_Clark_Ashton_Smith.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_55_Clark_Ashton_Smith.mp3" length="13652598" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[054 River Round-Up by W. Ryerson Johnson]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Western Story Magazine, May 14, 1932]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_54_W._Ryerson_Johnson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_54_W._Ryerson_Johnson.mp3" length="17532723" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[053 The Hand of the Mandarin Quong by Sax Rohmer]]></title>
+            <description><![CDATA[Read by Doc Coleman, first published in Tales of Chinatown]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_53_Sax_Rohmer.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_53_Sax_Rohmer.mp3" length="22225987" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[052 Mitafri by Eric H. Wilkinson]]></title>
+            <description><![CDATA[Read by Josh Roseman, first published in Sea Stories, August 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_52_Eric_H._Wilkinson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_52_Eric_H._Wilkinson.mp3" length="18028631" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[051 The Witch-Doctor Seeks Vengeance by Edgar Rice Burroughs]]></title>
+            <description><![CDATA[Read by Nathan Lowell, first published in 1919 in Jungle Tales of Tarzan]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_51_Edgar_Rice_Burroughs.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_51_Edgar_Rice_Burroughs.mp3" length="21703538" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[050 The Nameless City by H P Lovecraft]]></title>
+            <description><![CDATA[Read by Wilson Fowlie, first published in November 1921 issue of The Wolverine
+This is the first ever story in the Cthulhu Mythos]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_50_H._P._Lovecraft.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_50_H._P._Lovecraft.mp3" length="15700599" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[049 The Girl From Samarcand by E. Hoffmann Price]]></title>
+            <description><![CDATA[Read by James Silverstein, first published in Weird Tales, March 1938]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_49_E._Hoffmann_Price.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_49_E._Hoffmann_Price.mp3" length="19652612" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[048 The Problem of Cell 13 by Jacques Futrelle]]></title>
+            <description><![CDATA[Read by Simon Hildebrandt, first published in 1905]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_48_Jacques_Futrelle.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_48_Jacques_Futrelle.mp3" length="38843208" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[047 The Rats in the Walls by H. P. Lovecraft]]></title>
+            <description><![CDATA[Read by James Silverstein, first published in Weird Tales, March, 1924]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_47_H._P._Lovecraft.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_47_H._P._Lovecraft.mp3" length="29492625" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[046 Arson Plus by Dashiell Hammett]]></title>
+            <description><![CDATA[Read by Nick Camm, first published in Black Mask, October 1, 1923]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_46_Dashiell_Hammett.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_46_Dashiell_Hammett.mp3" length="20580690" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[045 The Devil's Crypt by E. Hoffmann Price]]></title>
+            <description><![CDATA[Read by Tristan Gregory, first published in Strange Detective Stories, January, 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_45_E._Hoffmann_Price.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_45_E._Hoffmann_Price.mp3" length="29049797" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[044 Wanted: A Wife by Carlotta M. Hardy]]></title>
+            <description><![CDATA[Read by Goldeen Ogawa, first published in All Story Weekly, August 19, 1916]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_44_Carlotta_M._Hardy.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_44_Carlotta_M._Hardy.mp3" length="18420677" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[043 The Spirit of France by S. B. H. Hurst]]></title>
+            <description><![CDATA[Read by Josie Babin, first published in Ace High Magazine, February, 1931]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_43_SBH_Hurst.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_43_SBH_Hurst.mp3" length="23748612" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[042 Adventure's Heart by Albert Dorrington]]></title>
+            <description><![CDATA[Read by Ben Boardman, first published in Top-Notch, May 1, 1922]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_42_Albert_Dorrington.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_42_Albert_Dorrington.mp3" length="30172645" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[041 The Queen of Wheats by Anonymous]]></title>
+            <description><![CDATA[Read by Brandie Tarvin, first published in I Confess, no. 25, Jan. 12 1923]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_41_Anonymous.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_41_Anonymous.mp3" length="16378319" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[040 The Golden Barrier by G.T. Fleming-Roberts]]></title>
+            <description><![CDATA[Read by Maury Kestenbaum, first published in Thrilling Wonder Stories, December 1940]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_40_G._T._Fleming-Roberts.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_40_G._T._Fleming-Roberts.mp3" length="35257905" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[039 That Spot by Jack London]]></title>
+            <description><![CDATA[Read by Steven Howell, first published in The Boy Scouts Book of Campfire Stories]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_39_Jack_London.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_39_Jack_London.mp3" length="14360154" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[038 Man From the Wrong Time-Track by Denis Plimmer]]></title>
+            <description><![CDATA[Read by Tim Maroney, first published in Uncanny Stories, April 1941]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_38_Dennis_Plimmer.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_38_Dennis_Plimmer.mp3" length="17524523" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[037 The Waters Of Bowlegs Creek by J. E. Grinstead]]></title>
+            <description><![CDATA[Read by Dan Rabarts, first published in The Frontier, May 1926]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_37_J._E._Grinstead.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_37_J._E._Grinstead.mp3" length="30542907" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[036 The Crawling Creature by Donald Bayne Hobart]]></title>
+            <description><![CDATA[Read by Jeff Lewis, first published in Thrilling Adventures, July 1932]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_36_Donald_Bayne_Hobart.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_36_Donald_Bayne_Hobart.mp3" length="20345956" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[035 The Crystal Ray by Raymond Gallum]]></title>
+            <description><![CDATA[Read by Logan Waterman, first published in Air Wonder Stories, November, 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_35_Raymond_Gallun.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_35_Raymond_Gallun.mp3" length="21014691" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[034 The Hounds of Tindalos by Frank Belknap Long, Jr.]]></title>
+            <description><![CDATA[Read by Lewis Morgan, first published in Weird Tales, March, 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_34_Frank_Belknap_Long_Jr.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_34_Frank_Belknap_Long_Jr.mp3" length="22374939" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[033 The Whistling Corpse by G. G. Pendarves]]></title>
+            <description><![CDATA[Read by Adam Pracht, first published in Weird Tales, July, 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_33_G._G._Pendarves.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_33_G._G._Pendarves.mp3" length="57945984" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[032 The Experiment In Gyro-Hats by Ellis Parker Butler]]></title>
+            <description><![CDATA[Read by Logan Waterman, first published in Amazing Stories, June 1926]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_32_Ellis_Parker_Butler.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_32_Ellis_Parker_Butler.mp3" length="20111063" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[031 The Tigress Terrible by S. Ten Eyck Burke]]></title>
+            <description><![CDATA[Read by Josie Babbin, first published in All Story Weekly, June 26 1915]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_31_S_Ten_Eyck_Bourke.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_31_S_Ten_Eyck_Bourke.mp3" length="16193950" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[030 Waterfront Fists by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Jim Philips, first published in Fight Stories, September, 1930]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_30_Robert_E_Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_30_Robert_E_Howard.mp3" length="31900229" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[029 The Pink of Fading Neon by James Blaylock]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Triquarterly Journal, Northwestern University, #47, Winter, 1980
+“The Pink of Fading Neon” ©1980 James Blaylock. Used by permission.]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_29_James_Blaylock.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_29_James_Blaylock.mp3" length="38411616" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[028 Tarzan Rescues the Moon by Edgar Rice Burroughs]]></title>
+            <description><![CDATA[Read by Bryan Lincoln, first published in Jungle Tales of Tarzan, 1919]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_28_Edgar_Rice_Burroughs.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_28_Edgar_Rice_Burroughs.mp3" length="24488768" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[027 Devil's Asteroid by Manly Wade Wellman]]></title>
+            <description><![CDATA[Read by Jacob Sanderson, first published in Comet, July, 1941]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_27_Manly_Wade_Wellman.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_27_Manly_Wade_Wellman.mp3" length="35610035" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[026 Whispering Death by Lawrence Donovan]]></title>
+            <description><![CDATA[Read by Robert Crandall, first published in Action Novels, August, 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_26_Lawrence_Donovan.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_26_Lawrence_Donovan.mp3" length="15274022" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[025 Agent Andy by Russell A. Boggs]]></title>
+            <description><![CDATA[Read by Tim Maroney, first published in Adventure Magazine, August 3, 1919]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_25_Russell_Boggs.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_25_Russell_Boggs.mp3" length="29454750" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[024 Hell On Dirt Oval by Lester Del Rey]]></title>
+            <description><![CDATA[Read by Pete Fallico, first published in All Sports, August, 1949]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_24_Philip_St._John.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_24_Philip_St._John.mp3" length="37819577" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[023 The Tree of Life (part 2) by C. L. Moore]]></title>
+            <description><![CDATA[Read by Jeff Lane, first published in Weird Tales, October 1936]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_23_C_L_Moore.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_23_C_L_Moore.mp3" length="23830900" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[022 The Tree of Life (part 1) by C. L. Moore]]></title>
+            <description><![CDATA[Read by Jeff Lane, first published in Weird Tales, October 1936]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_22_C_L_Moore.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_22_C_L_Moore.mp3" length="25562087" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[021 The X-Gas by Cyril Plunkett]]></title>
+            <description><![CDATA[Read by Joe Sammarco, first published in Air Wonder Stories, March, 1930]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_21_Cyril_Plunket.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_21_Cyril_Plunket.mp3" length="24821881" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[020 Fane of the Black Pharaoh by Robert Bloch]]></title>
+            <description><![CDATA[Read by Nick Camm, first published in Weird Tales, December 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_20_Robert_Bloch.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_20_Robert_Bloch.mp3" length="31633989" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[019 Ten Dollars-No Sense by Tom Thursday]]></title>
+            <description><![CDATA[Read by Robert Smales, first published in Top-Notch Magazine, December 15, 1922]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_19_Tom_Thursday.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_19_Tom_Thursday.mp3" length="20843537" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[018 Hide-Away by H. A. DeRosso]]></title>
+            <description><![CDATA[Read by Jeff Lewis, first published in Triple Detective, Summer, 1954]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_18_H_A_DeRosso.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_18_H_A_DeRosso.mp3" length="18882054" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[017 The Golgotha Dancers by Manly Wade Wellman]]></title>
+            <description><![CDATA[Read by Kevin Hayden, first published in Weird Tales, October 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_17_Manly_Wade_Wellman.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_17_Manly_Wade_Wellman.mp3" length="18314048" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[016 Raiders of the Spaceways by Henry Kuttner]]></title>
+            <description><![CDATA[Read by Simon Hildebrandt, first published in Weird Tales, July, 1937]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_16_Henry_Kuttner.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_16_Henry_Kuttner.mp3" length="39450662" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[015 Kali by Eric Taylor]]></title>
+            <description><![CDATA[Read by Jeff Lane, first published in All Star Detective Stories, November, 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_15_Eric_Taylor.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_15_Eric_Taylor.mp3" length="29993918" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[014 The Way Down the Hill by Tim Powers]]></title>
+            <description><![CDATA[Read by Fred Himebaugh, first published in Fantasy and Science Fiction, December 1982
+Host Dave Robison and editor Fred Himebaugh interview Tim Powers, author of this episode’s story.]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_14_Tim_Powers.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_14_Tim_Powers.mp3" length="50553957" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[013 Conjuror of the Clouds by Muriel A. Pollexfen]]></title>
+            <description><![CDATA[Read by Tim Ward, first published in Adventure, August 1911]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_13_Muriel_Pollexfen.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_13_Muriel_Pollexfen.mp3" length="24794087" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[012 The Eagle of Kuwahi by C. Hall Thompson]]></title>
+            <description><![CDATA[Read by Daniel Schwartz, first published in Indian Stories, Winter, 1950]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_12_C_Hall_Thompson.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_12_C_Hall_Thompson.mp3" length="33538003" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[011 A Voice From the Fog by Ben Ames Williams]]></title>
+            <description><![CDATA[Read by Nobilis Reed, first published in All-Story, September 15 1917]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_11_Ben_Ames_Williams.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_11_Ben_Ames_Williams.mp3" length="22119775" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[010 The Game of Rat and Dragon by Cordwainer Smith]]></title>
+            <description><![CDATA[Read by Steven Howell, first published in Galaxy, October 1955]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_10_Cordwainer_Smith.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_10_Cordwainer_Smith.mp3" length="22466054" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[009 Live Bait by E. Hoffman Price]]></title>
+            <description><![CDATA[Read by Steven Howell, first published in Alibi, April 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_9_E_Hoffmann_Price.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_9_E_Hoffmann_Price.mp3" length="25514022" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[008 When Caverns Yawned by Captain S. P. Meek]]></title>
+            <description><![CDATA[Read by Josh Roseman, first published in Astounding Stories, May 1931]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_8_S._P._Meek.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_8_S._P._Meek.mp3" length="33209905" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[007 There's Hicks In All Trades by Tom Thursday]]></title>
+            <description><![CDATA[Read by Joe Sammarco, first published in All Sports, February 1940]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_7_Tom_Thursday.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_7_Tom_Thursday.mp3" length="20885542" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[006 Flying Suitors by Arthur J. Burks]]></title>
+            <description><![CDATA[Read by Josie Babin, first published in Flying Stories, May 1929]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_6_Authur_J_Burks.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_6_Authur_J_Burks.mp3" length="21362015" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[005 Gods of the North by Robert E. Howard]]></title>
+            <description><![CDATA[Read by Scott Couchman, first published in Fantasy Fan, March 1934]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_5_Robert_E_Howard.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_5_Robert_E_Howard.mp3" length="17714067" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[004 Kroom, Son of the Sea by Valentine Wood]]></title>
+            <description><![CDATA[Read by Bob Hoe, first published in Top-Notch, June 15, 1930]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_4_Valentine_Wood.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_4_Valentine_Wood.mp3" length="47961983" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[003 Love of Life by Jack London]]></title>
+            <description><![CDATA[Read by Kevin Hayden, first published in Love of Life and Other Stories, 1907]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_3_Jack_London.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_3_Jack_London.mp3" length="30297983" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[002 Bread Overhead by Fritz Leiber]]></title>
+            <description><![CDATA[Read by Mike Wood, first published in Galaxy, February 1958]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_2_Fritz_Leiber.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_2_Fritz_Leiber.mp3" length="21861894" type="audio/mpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[001 Golden Lure by George Goodchild]]></title>
+            <description><![CDATA[Read by Scott Couchman, first published in Top-Notch, April 15, 1922]]></description>
+            <guid isPermaLink="false">http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_1_George_Goodchild.mp3</guid>
+            <enclosure url="http://ppp.requisite.link/episodes/Protecting_Project_Pulp_No_1_George_Goodchild.mp3" length="23337129" type="audio/mpeg"/>
+        </item>
+    </channel>
 </rss>

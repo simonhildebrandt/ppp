@@ -3,10 +3,9 @@ let Parser = require('rss-parser');
 var mp3Duration = require('mp3-duration');
 const mm = require('music-metadata');
 
-//const {Feed} = require("feed");
-const {Podcast} = require("podcast");
-
-//var convert = require('xml-js');
+const Feed = require("pfeed-podcast");
+const { Podcast } = require("podcast");
+var RSS = require('rss');
 
 let fs = require('fs');
 let https = require('https');
@@ -26,9 +25,9 @@ let descriptions = require('./descriptions.json');
 
   // check()
 
-  // generate();
+  generate();
 
-  process();
+  // process();
 
 
   async function process() {
@@ -47,6 +46,137 @@ let descriptions = require('./descriptions.json');
 
     const data = { items, ...rest } = manifest;
 
+    //const content = getFeedContent(items);
+    const content = getRSSContent(items);
+
+    fs.writeFileSync('public/ppp.rss', content)
+  }
+
+  function getRSSContent(items) {
+    const author = 'Simon Hildebrandt';
+    const email = 'simonhildebrandt@gmail.com';
+    const summary = 'Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.';
+    const image_url = "http://ppp.requisite.link/ppp-logo.png";
+
+    var feed = new RSS({
+      title: 'Protecting Project Pulp',
+      description: 'Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.',
+      feed_url: 'http://ppp.requisite.link/ppp.rss',
+      site_url: 'http://ppp.requisite.link',
+      image_url,
+      language: 'en',
+      custom_namespaces: {
+        'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+      },
+      custom_elements: [
+        {'itunes:explicit': 'no'},
+        {'itunes:author': author},
+        {'itunes:summary': summary},
+        {'itunes:owner': [
+          {'itunes:name': author},
+          {'itunes:email': email}
+        ]},
+        {'itunes:image': {
+          _attr: {
+            href: image_url
+          }
+        }},
+        {'itunes:category': [
+          {_attr: {
+            text: 'Arts'
+          }}
+        ]}
+      ]
+    });
+
+    items.forEach(item => {
+      let filename = item.enclosure.url.split("/").pop();
+      let path = `episodes/${filename}`;
+      const url = `http://ppp.requisite.link/${path}`;
+      const description = descriptions[parseInt(item.guid) - 1]
+
+
+      feed.item({
+        title: item.title,
+        description,
+        guid: url,
+        enclosure: { url, file: path }
+      });
+    });
+
+    return feed.xml({indent: true});
+  }
+
+  function getFeedContent(items) {
+    const feed = new Feed({
+      title: 'Protecting Project Pulp',
+      description: 'Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.',
+      id: "http://ppp.requisite.link",
+      siteUrl: "http://ppp.requisite.link",
+      link: "http://ppp.requisite.link",
+      language: "en", // optional, used only in RSS 2.0, possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+      image: "http://ppp.requisite.link/ppp-logo.png",
+      itunesImage: "http://ppp.requisite.link/ppp-logo.png",
+      copyright: "All rights reserved 2013, Simon Hildebrandt",
+      updated: new Date(), // optional, default = today
+      explicit: false,
+      feedLinks: {
+        // json: "https://example.com/json",
+        // atom: "https://example.com/atom",
+        atom: "http://ppp.requisite.link/ppp.rss"
+      },
+      feed: "http://ppp.requisite.link/ppp.rss",
+      author: "Simon Hildebrandt",
+      itunesOwner: {
+        name: "Simon Hildebrandt",
+        email: "simonhildebrandt@gmail.com"
+      },
+      categories: ['Arts'],
+      itunesCategory: [{
+        text: 'Arts',
+        subcats: [{
+          text: 'Books'
+        }]
+      }],
+    });
+
+    // feed.addCategory("Arts");
+
+    items.forEach(item => {
+      let filename = item.enclosure.url.split("/").pop();
+      let path = `episodes/${filename}`;
+      const url = `http://ppp.requisite.link/${path}`;
+      const stats = fs.statSync(path, {throwIfNoEntry: false});
+
+      const description = descriptions[parseInt(item.guid) - 1]
+
+      // console.log(stats)
+      length = stats.size
+      type = "audio/mpeg"
+
+      feed.addItem({
+        title: item.title,
+        id: item.guid,
+        link: url,
+        description,
+        content: description,
+        image: item.image,
+        //enclosure: { url, length, type },
+        enclosure: {url, file: path},
+        media: [
+          {
+            type, length,
+            sources: [ { uri: url } ]
+          }
+        ],
+        date: new Date()
+      });
+    });
+
+    return feed.podcast();
+  }
+
+  function getPodcastContent(items) {
     const feed = new Podcast({
       title: 'Protecting Project Pulp',
       description: 'Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.',
@@ -57,7 +187,7 @@ let descriptions = require('./descriptions.json');
       itunesImage: "http://ppp.requisite.link/ppp-logo.png",
       copyright: "All rights reserved 2013, Simon Hildebrandt",
       updated: new Date(), // optional, default = today
-      itunesExplicit: false,
+      explicit: 'no',
       feedLinks: {
         // json: "https://example.com/json",
         // atom: "https://example.com/atom",
@@ -102,10 +232,8 @@ let descriptions = require('./descriptions.json');
       });
     });
 
-    //fs.writeFileSync('public/ppp.rss', feed.rss2())
-    fs.writeFileSync('public/ppp.rss', feed.buildXml(2))
+    return feed.buildXml('  ');
   }
-
 
   function check() {
     const feed = JSON.parse(fs.readFileSync('manifest.json'))
