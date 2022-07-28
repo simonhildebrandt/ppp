@@ -9,7 +9,10 @@ var RSS = require('rss');
 
 let fs = require('fs');
 let https = require('https');
+const util = require('util');
 
+
+const getDuration = util.promisify(mp3Duration);
 
 let descriptions = require('./descriptions.json');
 
@@ -40,23 +43,23 @@ let descriptions = require('./descriptions.json');
     fs.writeFileSync('manifest.json', JSON.stringify(feed));
   }
 
-  function generate() {
+  async function generate() {
 
     const manifest = JSON.parse(fs.readFileSync('manifest.json'))
 
     const data = { items, ...rest } = manifest;
 
     //const content = getFeedContent(items);
-    const content = getRSSContent(items);
-
+    const content = await getRSSContent(items);
     fs.writeFileSync('public/ppp.rss', content)
   }
 
-  function getRSSContent(items) {
+  async function getRSSContent(items) {
     const author = 'Simon Hildebrandt';
     const email = 'simonhildebrandt@gmail.com';
     const summary = 'Protecting Project Pulp was an "Audio Pulp Fiction Magazine" hosted by Dave Robison and Simon Hildebrandt, and produced by Fred Himebaugh. PPP was originally serialised between 2012 and 2014.';
     const image_url = "http://ppp.requisite.link/ppp-logo.png";
+    const date = new Date();
 
     var feed = new RSS({
       title: 'Protecting Project Pulp',
@@ -89,22 +92,36 @@ let descriptions = require('./descriptions.json');
       ]
     });
 
-    items.forEach(item => {
+    const promises = items.map(async item => {
       let filename = item.enclosure.url.split("/").pop();
       let path = `episodes/${filename}`;
       const url = `http://ppp.requisite.link/${path}`;
       const description = descriptions[parseInt(item.guid) - 1]
+      const duration = await getDuration(path);
 
-
-      feed.item({
+      return {
         title: item.title,
         description,
         guid: url,
-        enclosure: { url, file: path }
-      });
+        enclosure: { url, file: path },
+        date,
+        custom_elements: [
+          { 'itunes:duration': durationString(duration) }
+        ]
+      };
     });
 
+    const data = await Promise.all(promises);
+
+    data.map(item => feed.item(item));
+
     return feed.xml({indent: true});
+  }
+
+  function durationString(seconds) {
+    const date = new Date(null);
+    date.setSeconds(seconds);
+    return date.toISOString().substr(11, 8);
   }
 
   function getFeedContent(items) {
@@ -304,7 +321,3 @@ let descriptions = require('./descriptions.json');
 
 })();
 
-
-// var result = convert.xml2json(content, {compact: true, spaces: 4});
-
-// console.log(result);
